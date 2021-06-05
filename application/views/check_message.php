@@ -1,0 +1,1 @@
+<h1>Hello I am from Check Message PHP page</h1>
